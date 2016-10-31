@@ -57,6 +57,15 @@ html, body {
     float: left;
 }
 
+#homebutton {
+  height:50%;
+  width:auto;
+  float:left;
+  position:inherit;
+  margin-left:235px;
+  margin-top:12px;
+}
+
 #teampic {
     max-width: 70%;
     display: block;
